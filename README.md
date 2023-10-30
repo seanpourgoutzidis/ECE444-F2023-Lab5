@@ -10,5 +10,6 @@ I believe that a con of test driven development is that it delays the developmen
 
 For my contribution to my project's unit test, I have added a unit test for our project's database connection and gleaning of information.
 I added this as I was working on the "For You" recommended page functionality for our site, which relies on connecting to our
-relational database. It is available in our our repo under the tests folder in betula_test.py under the Sean comment. It is currently
- available [here](https://github.com/ECE444-2023Fall/project-1-web-application-design-group19-webcrafters/blob/Unit-Tests-(Lab-5)/tests/betula_test.py#L150-L193).
+relational database. It checks first if we can access the database and then if we can pull the events from the database. 
+It is available in our our repo under the tests folder in betula_test.py under the Sean comment. It is currently available 
+[here](https://github.com/ECE444-2023Fall/project-1-web-application-design-group19-webcrafters/blob/Unit-Tests-(Lab-5)/tests/betula_test.py#L150-L193).
